@@ -12,7 +12,11 @@ A comprehensive inventory management system for small businesses with user authe
 
 1. **Clone the repository**
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/DhanushPadarthi/Smart-Inventory-Management-System.git
+=======
+git clone (https://github.com/Indra-dev404/Smart-Inventory-Management-System.git)
+>>>>>>> 70f3338ad606c81afd4670761ec4469490149d3b
 cd "Smart Inventory Management System"
 ```
 
@@ -70,6 +74,7 @@ Smart Inventory Management System/
 - **Role Management**: Admin and Employee roles
 - **Password Security**: Bcrypt hashing
 - **Session Management**: Token-based authentication
+<<<<<<< HEAD
 - **Profile Management**: Password reset functionality
 
 ### ✅ Milestone 2 - Complete (Weeks 3-4)
@@ -84,6 +89,12 @@ Smart Inventory Management System/
 
 ### 🚧 Upcoming Milestones
 - **Milestone 3** (Week 5): Low-Stock Alerts & Notifications
+=======
+
+### 🚧 Upcoming Milestones
+- **Milestone 2** (Weeks 3-4): Product & Inventory Management
+- **Milestone 3** (Week 5): Low-Stock Alerts
+>>>>>>> 70f3338ad606c81afd4670761ec4469490149d3b
 - **Milestone 4** (Weeks 6-7): Transaction Management
 - **Milestone 5** (Week 8): Reports & Export
 
